@@ -1,0 +1,1 @@
+Simple quiz app just to check how good are you in general knowledge
